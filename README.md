@@ -1,2 +1,2 @@
 # terraform-vpc
-Terraform template to build vpc and instal NGINX
+Terraform template to build vpc and install NGINX
