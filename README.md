@@ -21,7 +21,7 @@ This is a example terraform template to build vpc and install NGINX. This templa
 ### Steps to run
 ### Clone the git repo
 ```bash
-git clone https://github.com/amjad489/random_data.git
+git clone git@github.com:amjad489/terraform-vpc.git
 ```
 #### Run
 ```
